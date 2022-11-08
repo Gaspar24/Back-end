@@ -1,0 +1,26 @@
+
+body{
+    background-color: #1a202c;
+}
+.title{
+    color: #6610f2;
+}
+.homebtn{
+    width: 100px;
+}
+.navbar1{
+    background-color: #141619;
+    text-align: center;
+}
+.center{
+    text-align: center;
+    /*background-color: aliceblue;*/
+}
+.video1:hover {
+    transform: scale(1.2);
+
+}
+
+
+
+
